@@ -1,4 +1,9 @@
 ﻿
+
+//Hello from Israel, Beit Eliezer
+
+
+
 //Main method - Client(Console App) code
 StockExchangeMonitor stockExchangeMonitor = new StockExchangeMonitor();
 stockExchangeMonitor.PriceChangeHandler = ShowPrice;
